@@ -12,6 +12,7 @@ Register Yourself along with your interests or Login Using the Sample Username a
 
 <div align="center">
   <img src="https://github.com/kathireshG/Smart-Emotion-Detection-Chatbot/raw/main/images/0.png">
+  <br>
   <img src="https://github.com/kathireshG/Smart-Emotion-Detection-Chatbot/raw/main/images/1.png">
   <img src="https://github.com/kathireshG/Smart-Emotion-Detection-Chatbot/raw/main/images/2.png">
   <img src="https://github.com/kathireshG/Smart-Emotion-Detection-Chatbot/raw/main/images/3.png">
